@@ -1,4 +1,3 @@
-# AdventOfCode2022
 My [⭐ Advent of Code ⭐](https://adventofcode.com/2022) solutions.
 
 **Solutions, where?**
@@ -11,5 +10,5 @@ If you think my solutions are optimized or otherwise shitty, too bad. I am not f
 
 For me Advent of Code is about trying to write good and quality code from the start. I also like to explore new ways of exploiting JavaScript array prototypes.
 
-## License
+### License
 MIT license. See `LICENSE` file.
